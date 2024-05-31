@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Teatre Romà</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .slide {
+            margin-bottom: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="slide">
+    <h1>El Teatre Romà</h1>
+</div>
+
+<div class="slide">
+    <h2>1. Introducció</h2>
+    <p>Història del Teatre Romà</p>
+    <p>Els teatres romans van ser construïts durant l'època de l'Imperi Romà, influenciats per les estructures teatrals gregues però adaptats a les necessitats i gustos romans.</p>
+</div>
+
+<div class="slide">
+    <h2>2. Arquitectura del Teatre Romà</h2>
+    <h3>Estructura General</h3>
+    <p>Els teatres romans tenien una estructura semicircular que incloïa l'escena, l'orquestra i la càvea.</p>
+    <img src="https://example.com/imatge_teatre.jpg" alt="Estructura Teatre Romà">
+    <h3>Parts Principals</h3>
+    <ul>
+        <li><strong>Càvea:</strong> La graderia on s'asseia el públic.</li>
+        <li><strong>Orquestra:</strong> L'espai semicircular davant de l'escena, inicialment utilitzat pels músics i més tard pels seients de personalitats importants.</li>
+        <li><strong>Escena:</strong> L'escenari on es desenvolupava l'acció teatral.</li>
+        <li><strong>Scaenae Frons:</strong> La façana decorativa darrere de l'escena, sovint adornada amb columnes i estàtues.</li>
+    </ul>
+</div>
+
+<div class="slide">
+    <h2>3. Funció Social del Teatre</h2>
+    <p>Activitats Culturals i Polítiques</p>
+    <p>Els teatres eren llocs de reunió social i política, així com d'entreteniment. Les representacions teatrals, discursos públics i altres esdeveniments es realitzaven aquí.</p>
+    <img src="https://example.com/esdeveniments.jpg" alt="Esdeveniments en el Teatre">
+</div>
+
+<div class="slide">
+    <h2>4. Exemples de Teatres Romans</h2>
+    <h3>Teatre de Mèrida</h3>
+    <p>Un dels exemples més ben conservats, situat a Espanya.</p>
+    <img src="https://example.com/teatre_merida.jpg" alt="Teatre de Mèrida">
+    <h3>Teatre de Pompeia</h3>
+    <p>Un altre exemple destacat, proper a Nàpols, Itàlia.</p>
+    <img src="https://example.com/teatre_pompeia.jpg" alt="Teatre de Pompeia">
+</div>
+
+<div class="slide">
+    <h2>5. Conservació i Importància Actual</h2>
+    <h3>Conservació i Restauració</h3>
+    <p>Molts teatres romans han estat restaurats i són avui en dia llocs turístics importants.</p>
+    <h3>Impacte Cultural</h3>
+    <p>El disseny dels teatres romans ha influenciat l'arquitectura teatral al llarg de la història fins als nostres dies.</p>
+</div>
+
+<div class="slide">
+    <h2>6. Conclusió</h2>
+    <p>Els teatres romans no només són testimonis del passat arquitectònic i cultural, sinó que també són espais que encara avui dia serveixen per a activitats culturals i artístiques.</p>
+</div>
+
+<div class="slide">
+    <h2>7. Bibliografia i Recursos</h2>
+    <ul>
+        <li>Llibres, articles acadèmics, i pàgines web sobre el tema per a més informació.</li>
+        <li>"Arquitectura Romana" de John Doe</li>
+        <li>Article de la Viquipèdia sobre el <a href="https://ca.wikipedia.org/wiki/Teatre_rom%C3%A0">Teatre Romà</a></li>
+    </ul>
+</div>
+
+</body>
+</html>
